@@ -21,7 +21,7 @@
 title: Danny' blog
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blog
-baseurl: "_posts" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dann10131.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: # I don't have a Twitter account or are planning to
 github_username:  Dann10131
